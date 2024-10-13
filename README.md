@@ -23,10 +23,10 @@ The
 core can automatically load these Pokémon when you enter the in-game Cable Club.
 Once traded, your Pokémon will then be added to the online pool.
 
-<br>
-<br>
-```properties
+
+run it locally with
+```
 deno run --allow-net --watch --unstable main.ts
 ```
 
-<br>
+
