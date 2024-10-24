@@ -8,7 +8,7 @@ import populateKvStoreIfEmpty from "./backend/data/populateDB.ts"
 const kv = await Deno.openKv();
 
 // Create an async iterator to go through all keys in the Kv store
-for await (const entry of kv.list({})) {
+for await (const entry of kv.list({ prefix: [] })) {
     // Delete each key found in the Kv store
     await kv.delete(entry.key);
 }
