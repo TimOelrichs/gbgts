@@ -1,13 +1,15 @@
 ## DoubleCherryGB GB GTS REST API
 
-<img src="/img/gbgts.png">
+<img src="/backend/img/gbgts.png">
 
 **author:** Tim Oelrichs<br> **email:** timoelrichs@gmail.com<br>
 
 <br>
 
-## Deno REST API for the DoubleCherryGB GB GTS (in Development)
+## DoubleCherryGB GBGTS (in Development)
+### Vue Frontend and Deno REST API with Deno.KV Database
 
+<br>vist https://gbgts.deno.dev/ to see in it action!
 <br>
 
 GBGTS aims to bring an online link-trading system to the Game Boy and Game Boy
@@ -24,6 +26,13 @@ core can automatically load these Pokémon when you enter the in-game Cable Club
 Once traded, your Pokémon will then be added to the online pool.
 
 run it locally with
+<<<<<<< HEAD
+=======
+```
+deno run --allow-net --watch --unstable-kv --allow-read main.ts
+```
+
+>>>>>>> origin/main
 
 ```
 deno run --allow-net --watch --unstable run_fullstack.ts
