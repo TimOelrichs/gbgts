@@ -9,9 +9,6 @@
 ## DoubleCherryGB GBGTS (in Development)
 ### Vue Frontend and Deno REST API with Deno.KV Database
 
-<br>vist https://gbgts.deno.dev/ to see in it action!
-<br>
-
 GBGTS aims to bring an online link-trading system to the Game Boy and Game Boy
 Color. It provides an online Pokémon Trading Pool for the GB/GBC Pokémon games
 (Red, Blue, Yellow, Silver, Gold, and Crystal), with potential future support
