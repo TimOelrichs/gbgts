@@ -32,9 +32,18 @@ export interface Pkm {
     special?: number[],// 2Bytes
     specialAttack?: number[],// 2Bytes
     specialDefense?: number[],// 2Bytes
-  }
+    //these are redudant, but so the frontend doesn't have to calculate these for every entry
+    ivAttack?: number;
+    ivDefense?: number;
+    ivSpeed?: number;
+    ivSpecial?: number;
+    ivHp?: number;
+    starRating: number;
+    textRating: string;
+    isShiny?: boolean;
+}
 
-  export interface Checkout{
+export interface Checkout {
     TrainerId: string,
     Pokemons: Pkm[]
-  }
+}

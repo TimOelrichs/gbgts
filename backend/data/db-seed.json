@@ -1,0 +1,3010 @@
+[
+    {
+        "eventName": "Game Freak ",
+        "isEventPkm": true,
+        "originalTrainerName": "PKBuddy",
+        "id": "c53fd0f0-8d3d-11ef-91ba-355472b84b88",
+        "name": "Mew",
+        "dexNo": 151,
+        "heldItem": 83,
+        "move1": 1,
+        "move2": 0,
+        "move3": 0,
+        "move4": 0,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            0,
+            0,
+            135
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            255,
+            255
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 5,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            26
+        ],
+        "maxHp": [
+            0,
+            26
+        ],
+        "attack": [
+            0,
+            16
+        ],
+        "defense": [
+            0,
+            16
+        ],
+        "speed": [
+            0,
+            16
+        ],
+        "specialAttack": [
+            0,
+            16
+        ],
+        "specialDefense": [
+            0,
+            16
+        ],
+        "ivAttack": 15,
+        "ivDefense": 15,
+        "ivSpeed": 15,
+        "ivSpecial": 15,
+        "ivHp": 15,
+        "starRating": 3,
+        "textRating": "outstanding",
+        "isShiny": false
+    },
+    {
+        "eventName": "Pokemon Stamp ",
+        "isEventPkm": true,
+        "originalTrainerName": "PKBuddy",
+        "id": "c6760700-8d3d-11ef-91ba-355472b84b88",
+        "name": "Fearow",
+        "dexNo": 22,
+        "heldItem": 173,
+        "move1": 64,
+        "move2": 45,
+        "move3": 43,
+        "move4": 6,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            0,
+            61,
+            9
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 25,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            75
+        ],
+        "maxHp": [
+            0,
+            75
+        ],
+        "attack": [
+            0,
+            57
+        ],
+        "defense": [
+            0,
+            45
+        ],
+        "speed": [
+            0,
+            62
+        ],
+        "specialAttack": [
+            0,
+            43
+        ],
+        "specialDefense": [
+            0,
+            43
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "Pokemon Stamp ",
+        "isEventPkm": true,
+        "originalTrainerName": "PKBuddy",
+        "id": "c7ab79c0-8d3d-11ef-91ba-355472b84b88",
+        "name": "Rapidash",
+        "dexNo": 78,
+        "heldItem": 60,
+        "move1": 52,
+        "move2": 39,
+        "move3": 23,
+        "move4": 6,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            0,
+            250,
+            0
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 40,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            114
+        ],
+        "maxHp": [
+            0,
+            114
+        ],
+        "attack": [
+            0,
+            97
+        ],
+        "defense": [
+            0,
+            73
+        ],
+        "speed": [
+            0,
+            101
+        ],
+        "specialAttack": [
+            0,
+            82
+        ],
+        "specialDefense": [
+            0,
+            82
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "Surfing ",
+        "isEventPkm": true,
+        "originalTrainerName": "Imakuni",
+        "id": "c8e188c0-8d3d-11ef-91ba-355472b84b88",
+        "name": "Pikachu",
+        "dexNo": 25,
+        "heldItem": 6,
+        "move1": 84,
+        "move2": 45,
+        "move3": 57,
+        "move4": 0,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            0,
+            0,
+            125
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 5,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            20
+        ],
+        "maxHp": [
+            0,
+            20
+        ],
+        "attack": [
+            0,
+            12
+        ],
+        "defense": [
+            0,
+            9
+        ],
+        "speed": [
+            0,
+            15
+        ],
+        "specialAttack": [
+            0,
+            11
+        ],
+        "specialDefense": [
+            0,
+            10
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "Surfing & Flying ",
+        "isEventPkm": true,
+        "originalTrainerName": "Imakuni",
+        "id": "ca1a2fd0-8d3d-11ef-91ba-355472b84b88",
+        "name": "Pikachu",
+        "dexNo": 25,
+        "heldItem": 6,
+        "move1": 84,
+        "move2": 45,
+        "move3": 57,
+        "move4": 19,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            0,
+            0,
+            125
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 5,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            20
+        ],
+        "maxHp": [
+            0,
+            20
+        ],
+        "attack": [
+            0,
+            12
+        ],
+        "defense": [
+            0,
+            9
+        ],
+        "speed": [
+            0,
+            15
+        ],
+        "specialAttack": [
+            0,
+            11
+        ],
+        "specialDefense": [
+            0,
+            10
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "University ",
+        "isEventPkm": true,
+        "originalTrainerName": "CELADON",
+        "id": "cb4f0650-8d3d-11ef-91ba-355472b84b88",
+        "name": "Magikarp",
+        "dexNo": 129,
+        "heldItem": 6,
+        "move1": 150,
+        "move2": 82,
+        "move3": 0,
+        "move4": 0,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            0,
+            16,
+            122
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 15,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            35
+        ],
+        "maxHp": [
+            0,
+            35
+        ],
+        "attack": [
+            0,
+            12
+        ],
+        "defense": [
+            0,
+            26
+        ],
+        "speed": [
+            0,
+            33
+        ],
+        "specialAttack": [
+            0,
+            14
+        ],
+        "specialDefense": [
+            0,
+            15
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "Stadium ",
+        "isEventPkm": true,
+        "originalTrainerName": "STADIUM",
+        "id": "cc858a80-8d3d-11ef-91ba-355472b84b88",
+        "name": "Bulbasaur",
+        "dexNo": 1,
+        "heldItem": 167,
+        "move1": 33,
+        "move2": 45,
+        "move3": 0,
+        "move4": 0,
+        "originalTrainerId": [
+            7,
+            208
+        ],
+        "exp": [
+            0,
+            0,
+            135
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 5,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            21
+        ],
+        "maxHp": [
+            0,
+            21
+        ],
+        "attack": [
+            0,
+            11
+        ],
+        "defense": [
+            0,
+            11
+        ],
+        "speed": [
+            0,
+            11
+        ],
+        "specialAttack": [
+            0,
+            13
+        ],
+        "specialDefense": [
+            0,
+            13
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "Stadium ",
+        "isEventPkm": true,
+        "originalTrainerName": "STADIUM",
+        "id": "cdbdbc60-8d3d-11ef-91ba-355472b84b88",
+        "name": "Charmander",
+        "dexNo": 4,
+        "heldItem": 167,
+        "move1": 10,
+        "move2": 45,
+        "move3": 0,
+        "move4": 0,
+        "originalTrainerId": [
+            7,
+            208
+        ],
+        "exp": [
+            0,
+            0,
+            135
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 5,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            20
+        ],
+        "maxHp": [
+            0,
+            20
+        ],
+        "attack": [
+            0,
+            11
+        ],
+        "defense": [
+            0,
+            10
+        ],
+        "speed": [
+            0,
+            13
+        ],
+        "specialAttack": [
+            0,
+            12
+        ],
+        "specialDefense": [
+            0,
+            11
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "Stadium ",
+        "isEventPkm": true,
+        "originalTrainerName": "STADIUM",
+        "id": "cef66370-8d3d-11ef-91ba-355472b84b88",
+        "name": "Squirtle",
+        "dexNo": 7,
+        "heldItem": 167,
+        "move1": 33,
+        "move2": 39,
+        "move3": 0,
+        "move4": 0,
+        "originalTrainerId": [
+            7,
+            208
+        ],
+        "exp": [
+            0,
+            0,
+            135
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 5,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            20
+        ],
+        "maxHp": [
+            0,
+            20
+        ],
+        "attack": [
+            0,
+            11
+        ],
+        "defense": [
+            0,
+            13
+        ],
+        "speed": [
+            0,
+            10
+        ],
+        "specialAttack": [
+            0,
+            11
+        ],
+        "specialDefense": [
+            0,
+            13
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "Stadium ",
+        "isEventPkm": true,
+        "originalTrainerName": "STADIUM",
+        "id": "d0304300-8d3d-11ef-91ba-355472b84b88",
+        "name": "Hitmonlee",
+        "dexNo": 106,
+        "heldItem": 168,
+        "move1": 24,
+        "move2": 96,
+        "move3": 0,
+        "move4": 0,
+        "originalTrainerId": [
+            7,
+            208
+        ],
+        "exp": [
+            0,
+            31,
+            64
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 20,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            56
+        ],
+        "maxHp": [
+            0,
+            56
+        ],
+        "attack": [
+            0,
+            59
+        ],
+        "defense": [
+            0,
+            32
+        ],
+        "speed": [
+            0,
+            45
+        ],
+        "specialAttack": [
+            0,
+            25
+        ],
+        "specialDefense": [
+            0,
+            55
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "Stadium ",
+        "isEventPkm": true,
+        "originalTrainerName": "STADIUM",
+        "id": "d168ea10-8d3d-11ef-91ba-355472b84b88",
+        "name": "Hitmonchan",
+        "dexNo": 107,
+        "heldItem": 168,
+        "move1": 4,
+        "move2": 97,
+        "move3": 0,
+        "move4": 0,
+        "originalTrainerId": [
+            7,
+            208
+        ],
+        "exp": [
+            0,
+            31,
+            64
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 20,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            56
+        ],
+        "maxHp": [
+            0,
+            56
+        ],
+        "attack": [
+            0,
+            53
+        ],
+        "defense": [
+            0,
+            42
+        ],
+        "speed": [
+            0,
+            41
+        ],
+        "specialAttack": [
+            0,
+            25
+        ],
+        "specialDefense": [
+            0,
+            55
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "Stadium ",
+        "isEventPkm": true,
+        "originalTrainerName": "STADIUM",
+        "id": "d29d7270-8d3d-11ef-91ba-355472b84b88",
+        "name": "Eevee",
+        "dexNo": 133,
+        "heldItem": 168,
+        "move1": 33,
+        "move2": 28,
+        "move3": 0,
+        "move4": 0,
+        "originalTrainerId": [
+            7,
+            208
+        ],
+        "exp": [
+            0,
+            61,
+            9
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 25,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            70
+        ],
+        "maxHp": [
+            0,
+            70
+        ],
+        "attack": [
+            0,
+            40
+        ],
+        "defense": [
+            0,
+            37
+        ],
+        "speed": [
+            0,
+            40
+        ],
+        "specialAttack": [
+            0,
+            35
+        ],
+        "specialDefense": [
+            0,
+            45
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "Stadium ",
+        "isEventPkm": true,
+        "originalTrainerName": "STADIUM",
+        "id": "d3d61980-8d3d-11ef-91ba-355472b84b88",
+        "name": "Omanyte",
+        "dexNo": 138,
+        "heldItem": 168,
+        "move1": 55,
+        "move2": 110,
+        "move3": 0,
+        "move4": 0,
+        "originalTrainerId": [
+            7,
+            208
+        ],
+        "exp": [
+            0,
+            31,
+            64
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 20,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            50
+        ],
+        "maxHp": [
+            0,
+            50
+        ],
+        "attack": [
+            0,
+            27
+        ],
+        "defense": [
+            0,
+            51
+        ],
+        "speed": [
+            0,
+            25
+        ],
+        "specialAttack": [
+            0,
+            47
+        ],
+        "specialDefense": [
+            0,
+            33
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "Stadium ",
+        "isEventPkm": true,
+        "originalTrainerName": "STADIUM",
+        "id": "d50e4b60-8d3d-11ef-91ba-355472b84b88",
+        "name": "Kabuto",
+        "dexNo": 140,
+        "heldItem": 168,
+        "move1": 10,
+        "move2": 106,
+        "move3": 0,
+        "move4": 0,
+        "originalTrainerId": [
+            7,
+            208
+        ],
+        "exp": [
+            0,
+            31,
+            64
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 20,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            48
+        ],
+        "maxHp": [
+            0,
+            48
+        ],
+        "attack": [
+            0,
+            43
+        ],
+        "defense": [
+            0,
+            47
+        ],
+        "speed": [
+            0,
+            33
+        ],
+        "specialAttack": [
+            0,
+            33
+        ],
+        "specialDefense": [
+            0,
+            29
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "Stadium ",
+        "isEventPkm": true,
+        "originalTrainerName": "STADIUM",
+        "id": "d645e100-8d3d-11ef-91ba-355472b84b88",
+        "name": "Psyduck",
+        "dexNo": 54,
+        "heldItem": 168,
+        "move1": 10,
+        "move2": 133,
+        "move3": 0,
+        "move4": 0,
+        "originalTrainerId": [
+            7,
+            208
+        ],
+        "exp": [
+            0,
+            31,
+            64
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 20,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            56
+        ],
+        "maxHp": [
+            0,
+            56
+        ],
+        "attack": [
+            0,
+            31
+        ],
+        "defense": [
+            0,
+            30
+        ],
+        "speed": [
+            0,
+            33
+        ],
+        "specialAttack": [
+            0,
+            37
+        ],
+        "specialDefense": [
+            0,
+            31
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "PCNY  ",
+        "isEventPkm": true,
+        "originalTrainerName": "PCNYa",
+        "id": "d77c1710-8d3d-11ef-91ba-355472b84b88",
+        "name": "Articuno",
+        "dexNo": 144,
+        "heldItem": 0,
+        "move1": 54,
+        "move2": 97,
+        "move3": 170,
+        "move4": 58,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            2,
+            98,
+            90
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 50,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            165
+        ],
+        "maxHp": [
+            0,
+            165
+        ],
+        "attack": [
+            0,
+            105
+        ],
+        "defense": [
+            0,
+            120
+        ],
+        "speed": [
+            0,
+            105
+        ],
+        "specialAttack": [
+            0,
+            116
+        ],
+        "specialDefense": [
+            0,
+            146
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "PCNY  ",
+        "isEventPkm": true,
+        "originalTrainerName": "PCNYa",
+        "id": "d8b644c0-8d3d-11ef-91ba-355472b84b88",
+        "name": "Zapdos",
+        "dexNo": 145,
+        "heldItem": 0,
+        "move1": 86,
+        "move2": 97,
+        "move3": 197,
+        "move4": 65,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            2,
+            98,
+            90
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 50,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            165
+        ],
+        "maxHp": [
+            0,
+            165
+        ],
+        "attack": [
+            0,
+            110
+        ],
+        "defense": [
+            0,
+            105
+        ],
+        "speed": [
+            0,
+            120
+        ],
+        "specialAttack": [
+            0,
+            146
+        ],
+        "specialDefense": [
+            0,
+            111
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "PCNY  ",
+        "isEventPkm": true,
+        "originalTrainerName": "PCNYa",
+        "id": "d9ed3e20-8d3d-11ef-91ba-355472b84b88",
+        "name": "Moltres",
+        "dexNo": 146,
+        "heldItem": 0,
+        "move1": 64,
+        "move2": 83,
+        "move3": 0,
+        "move4": 0,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            2,
+            98,
+            90
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 50,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            165
+        ],
+        "maxHp": [
+            0,
+            165
+        ],
+        "attack": [
+            0,
+            120
+        ],
+        "defense": [
+            0,
+            110
+        ],
+        "speed": [
+            0,
+            110
+        ],
+        "specialAttack": [
+            0,
+            146
+        ],
+        "specialDefense": [
+            0,
+            106
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "PCNY  ",
+        "isEventPkm": true,
+        "originalTrainerName": "PCNYa",
+        "id": "db2485a0-8d3d-11ef-91ba-355472b84b88",
+        "name": "Mew",
+        "dexNo": 151,
+        "heldItem": 0,
+        "move1": 1,
+        "move2": 0,
+        "move3": 0,
+        "move4": 0,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            0,
+            0,
+            135
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 5,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            26
+        ],
+        "maxHp": [
+            0,
+            26
+        ],
+        "attack": [
+            0,
+            16
+        ],
+        "defense": [
+            0,
+            16
+        ],
+        "speed": [
+            0,
+            16
+        ],
+        "specialAttack": [
+            0,
+            16
+        ],
+        "specialDefense": [
+            0,
+            16
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "PCNY  ",
+        "isEventPkm": true,
+        "originalTrainerName": "PCNYa",
+        "id": "dc5ba610-8d3d-11ef-91ba-355472b84b88",
+        "name": "Mewtwo",
+        "dexNo": 150,
+        "heldItem": 0,
+        "move1": 244,
+        "move2": 248,
+        "move3": 54,
+        "move4": 94,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            6,
+            138,
+            206
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 70,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            249
+        ],
+        "maxHp": [
+            0,
+            249
+        ],
+        "attack": [
+            0,
+            180
+        ],
+        "defense": [
+            0,
+            152
+        ],
+        "speed": [
+            0,
+            208
+        ],
+        "specialAttack": [
+            0,
+            243
+        ],
+        "specialDefense": [
+            0,
+            154
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "PCNY  ",
+        "isEventPkm": true,
+        "originalTrainerName": "PCNYa",
+        "id": "dd933bb0-8d3d-11ef-91ba-355472b84b88",
+        "name": "Raikou",
+        "dexNo": 243,
+        "heldItem": 0,
+        "move1": 43,
+        "move2": 84,
+        "move3": 46,
+        "move4": 98,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            1,
+            56,
+            128
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 40,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            134
+        ],
+        "maxHp": [
+            0,
+            134
+        ],
+        "attack": [
+            0,
+            85
+        ],
+        "defense": [
+            0,
+            77
+        ],
+        "speed": [
+            0,
+            109
+        ],
+        "specialAttack": [
+            0,
+            110
+        ],
+        "specialDefense": [
+            0,
+            98
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "PCNY ",
+        "isEventPkm": true,
+        "originalTrainerName": "PCNYa",
+        "id": "dec9bfe0-8d3d-11ef-91ba-355472b84b88",
+        "name": "Entei",
+        "dexNo": 244,
+        "heldItem": 0,
+        "move1": 43,
+        "move2": 52,
+        "move3": 46,
+        "move4": 83,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            1,
+            56,
+            128
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 40,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            154
+        ],
+        "maxHp": [
+            0,
+            154
+        ],
+        "attack": [
+            0,
+            109
+        ],
+        "defense": [
+            0,
+            85
+        ],
+        "speed": [
+            0,
+            97
+        ],
+        "specialAttack": [
+            0,
+            90
+        ],
+        "specialDefense": [
+            0,
+            78
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "PCNY  ",
+        "isEventPkm": true,
+        "originalTrainerName": "PCNYa",
+        "id": "e001a3a0-8d3d-11ef-91ba-355472b84b88",
+        "name": "Suicune",
+        "dexNo": 245,
+        "heldItem": 0,
+        "move1": 43,
+        "move2": 55,
+        "move3": 46,
+        "move4": 16,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            1,
+            56,
+            128
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 40,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            142
+        ],
+        "maxHp": [
+            0,
+            142
+        ],
+        "attack": [
+            0,
+            77
+        ],
+        "defense": [
+            0,
+            109
+        ],
+        "speed": [
+            0,
+            85
+        ],
+        "specialAttack": [
+            0,
+            90
+        ],
+        "specialDefense": [
+            0,
+            110
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "PCNY  ",
+        "isEventPkm": true,
+        "originalTrainerName": "PCNYa",
+        "id": "e13baa40-8d3d-11ef-91ba-355472b84b88",
+        "name": "Lugia",
+        "dexNo": 249,
+        "heldItem": 0,
+        "move1": 177,
+        "move2": 219,
+        "move3": 16,
+        "move4": 105,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            1,
+            56,
+            128
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 40,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            146
+        ],
+        "maxHp": [
+            0,
+            146
+        ],
+        "attack": [
+            0,
+            89
+        ],
+        "defense": [
+            0,
+            121
+        ],
+        "speed": [
+            0,
+            105
+        ],
+        "specialAttack": [
+            0,
+            90
+        ],
+        "specialDefense": [
+            0,
+            141
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "PCNY  ",
+        "isEventPkm": true,
+        "originalTrainerName": "PCNYa",
+        "id": "e27562c0-8d3d-11ef-91ba-355472b84b88",
+        "name": "Ho-Oh",
+        "dexNo": 250,
+        "heldItem": 0,
+        "move1": 221,
+        "move2": 219,
+        "move3": 16,
+        "move4": 105,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            1,
+            56,
+            128
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 40,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            146
+        ],
+        "maxHp": [
+            0,
+            146
+        ],
+        "attack": [
+            0,
+            121
+        ],
+        "defense": [
+            0,
+            89
+        ],
+        "speed": [
+            0,
+            89
+        ],
+        "specialAttack": [
+            0,
+            106
+        ],
+        "specialDefense": [
+            0,
+            141
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "PCNY  ",
+        "isEventPkm": true,
+        "originalTrainerName": "PCNYa",
+        "id": "e3ad4680-8d3d-11ef-91ba-355472b84b88",
+        "name": "Celebi",
+        "dexNo": 251,
+        "heldItem": 0,
+        "move1": 73,
+        "move2": 93,
+        "move3": 105,
+        "move4": 215,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            0,
+            221,
+            84
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 40,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            142
+        ],
+        "maxHp": [
+            0,
+            142
+        ],
+        "attack": [
+            0,
+            97
+        ],
+        "defense": [
+            0,
+            97
+        ],
+        "speed": [
+            0,
+            97
+        ],
+        "specialAttack": [
+            0,
+            98
+        ],
+        "specialDefense": [
+            0,
+            98
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "PCNY  ",
+        "isEventPkm": true,
+        "originalTrainerName": "PCNYa",
+        "id": "e4e10b90-8d3d-11ef-91ba-355472b84b88",
+        "name": "Venusaur",
+        "dexNo": 3,
+        "heldItem": 0,
+        "move1": 77,
+        "move2": 79,
+        "move3": 75,
+        "move4": 230,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            0,
+            221,
+            84
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 40,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            126
+        ],
+        "maxHp": [
+            0,
+            126
+        ],
+        "attack": [
+            0,
+            82
+        ],
+        "defense": [
+            0,
+            83
+        ],
+        "speed": [
+            0,
+            81
+        ],
+        "specialAttack": [
+            0,
+            98
+        ],
+        "specialDefense": [
+            0,
+            98
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "PCNY  ",
+        "isEventPkm": true,
+        "originalTrainerName": "PCNYa",
+        "id": "e61b6050-8d3d-11ef-91ba-355472b84b88",
+        "name": "Charizard",
+        "dexNo": 6,
+        "heldItem": 0,
+        "move1": 99,
+        "move2": 184,
+        "move3": 53,
+        "move4": 17,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            0,
+            221,
+            84
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 40,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            124
+        ],
+        "maxHp": [
+            0,
+            124
+        ],
+        "attack": [
+            0,
+            84
+        ],
+        "defense": [
+            0,
+            79
+        ],
+        "speed": [
+            0,
+            97
+        ],
+        "specialAttack": [
+            0,
+            105
+        ],
+        "specialDefense": [
+            0,
+            86
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "PCNY  ",
+        "isEventPkm": true,
+        "originalTrainerName": "PCNYa",
+        "id": "e7553fe0-8d3d-11ef-91ba-355472b84b88",
+        "name": "Blastoise",
+        "dexNo": 9,
+        "heldItem": 0,
+        "move1": 55,
+        "move2": 44,
+        "move3": 229,
+        "move4": 182,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            0,
+            221,
+            84
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 40,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            125
+        ],
+        "maxHp": [
+            0,
+            125
+        ],
+        "attack": [
+            0,
+            83
+        ],
+        "defense": [
+            0,
+            97
+        ],
+        "speed": [
+            0,
+            79
+        ],
+        "specialAttack": [
+            0,
+            86
+        ],
+        "specialDefense": [
+            0,
+            102
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "PCNY  ",
+        "isEventPkm": true,
+        "originalTrainerName": "PCNYa",
+        "id": "e88fbbb0-8d3d-11ef-91ba-355472b84b88",
+        "name": "Chikorita",
+        "dexNo": 152,
+        "heldItem": 0,
+        "move1": 33,
+        "move2": 45,
+        "move3": 80,
+        "move4": 0,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            0,
+            0,
+            135
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 5,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            21
+        ],
+        "maxHp": [
+            0,
+            21
+        ],
+        "attack": [
+            0,
+            11
+        ],
+        "defense": [
+            0,
+            13
+        ],
+        "speed": [
+            0,
+            11
+        ],
+        "specialAttack": [
+            0,
+            11
+        ],
+        "specialDefense": [
+            0,
+            13
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "PCNY  ",
+        "isEventPkm": true,
+        "originalTrainerName": "PCNYa",
+        "id": "e9c63fe0-8d3d-11ef-91ba-355472b84b88",
+        "name": "Cyndaquil",
+        "dexNo": 155,
+        "heldItem": 0,
+        "move1": 33,
+        "move2": 43,
+        "move3": 38,
+        "move4": 0,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            0,
+            0,
+            135
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 5,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            20
+        ],
+        "maxHp": [
+            0,
+            20
+        ],
+        "attack": [
+            0,
+            11
+        ],
+        "defense": [
+            0,
+            10
+        ],
+        "speed": [
+            0,
+            13
+        ],
+        "specialAttack": [
+            0,
+            12
+        ],
+        "specialDefense": [
+            0,
+            11
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    },
+    {
+        "eventName": "PCNY  ",
+        "isEventPkm": true,
+        "originalTrainerName": "PCNYa",
+        "id": "eafb6480-8d3d-11ef-91ba-355472b84b88",
+        "name": "Totodile",
+        "dexNo": 158,
+        "heldItem": 0,
+        "move1": 10,
+        "move2": 43,
+        "move3": 66,
+        "move4": 0,
+        "originalTrainerId": [
+            3,
+            9
+        ],
+        "exp": [
+            0,
+            0,
+            135
+        ],
+        "hpEv": [
+            0,
+            0
+        ],
+        "attackEv": [
+            0,
+            0
+        ],
+        "defenseEv": [
+            0,
+            0
+        ],
+        "speedEv": [
+            0,
+            0
+        ],
+        "specialEv": [
+            0,
+            0
+        ],
+        "iv": [
+            250,
+            170
+        ],
+        "move1pp": 0,
+        "move2pp": 0,
+        "move3pp": 0,
+        "move4pp": 0,
+        "friendship": 0,
+        "pokerus": 0,
+        "caughtData": [
+            0,
+            0
+        ],
+        "level": 5,
+        "statusCondition": 0,
+        "currentHp": [
+            0,
+            21
+        ],
+        "maxHp": [
+            0,
+            21
+        ],
+        "attack": [
+            0,
+            13
+        ],
+        "defense": [
+            0,
+            12
+        ],
+        "speed": [
+            0,
+            10
+        ],
+        "specialAttack": [
+            0,
+            11
+        ],
+        "specialDefense": [
+            0,
+            11
+        ],
+        "ivAttack": 15,
+        "ivDefense": 10,
+        "ivSpeed": 10,
+        "ivSpecial": 10,
+        "ivHp": 8,
+        "starRating": 2,
+        "textRating": "quite impressive",
+        "isShiny": true
+    }
+]

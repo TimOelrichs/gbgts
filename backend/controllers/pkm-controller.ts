@@ -7,7 +7,8 @@ const kv = await Deno.openKv();
 
 export async function getAllPkms(ctx: Context) {
   const Pkms = [];
-  for await (const res of kv.list<Pkm>({ prefix: ["Pkm"] })) {
+  //for await (const res of kv.list<Pkm>({ prefix: ["Pkm"] })) {
+  for await (const res of kv.list({ prefix: ["Pkm"] })) {
     Pkms.push(res.value);
   }
   console.log("GET ALL");
@@ -34,41 +35,32 @@ export async function deletePkmsById(ctx: Context) {
 }
 
 
-
-
 export async function upsertPkm(ctx: Context) {
 
-  
+  console.log("POST PKM!");
   const Pkm: Pkm = await ctx.request.body.json();
+
+  console.log(Pkm);
 
     if (Pkm.id == "0") Pkm.id = uuid.v1.generate();
     const PkmKey = ["Pkm", Pkm.id]; 
   
     const oldPkm = await kv.get<Pkm>(PkmKey);
 
-    if (!oldPkm.value) {    
       const ok = await kv.atomic()
         .check(oldPkm)
         .set(PkmKey, Pkm)
         .commit();
       if (!ok) ctx.response.status = 500;
       else ctx.response.body = JSON.stringify(Pkm);
-    } else {
-      const ok = await kv.atomic()
-        .check(oldPkm)
-        .delete(["Pkm_by_dexNo", oldPkm.value.dexNo])
-        .set(PkmKey, Pkm)
-        .commit();
-      if (!ok) ctx.response.status = 500;
-      else ctx.response.body = JSON.stringify(Pkm);
-    }
+   
   }
 
 export async function PostCheckoutPkms(ctx: Context) {
 
   const Checkout: Checkout = await ctx.request.body.json();
 
- console.log("POST CHECKOUT");
+  console.log("POST CHECKOUT " + Checkout.TrainerId);
  //TODO DELETE CHECKOUT FROM KV
 
   const CheckoutKey = ["TrainerId", Checkout.TrainerId];
@@ -86,6 +78,8 @@ export async function PostCheckoutPkms(ctx: Context) {
 }
 
 export async function getCheckedOutPkms(ctx: Context) {
+
+  console.log("POST CHECKOUT " + ctx.params.trainerId);
 
   const entry = await kv.get(["TrainerId", ctx.params.trainerId]);
   if (entry.value) {
