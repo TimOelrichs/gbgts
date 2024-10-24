@@ -23,14 +23,7 @@ core can automatically load these Pokémon when you enter the in-game Cable Club
 Once traded, your Pokémon will then be added to the online pool.
 
 run it locally with
-<<<<<<< HEAD
-=======
-```
-deno run --allow-net --watch --unstable-kv --allow-read main.ts
-```
-
->>>>>>> origin/main
 
 ```
-deno run --allow-net --watch --unstable run_fullstack.ts
+deno run --allow-net --watch --unstable-kv --allow-read run_fullstack.ts
 ```
