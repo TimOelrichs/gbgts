@@ -1,14 +1,16 @@
 ## DoubleCherryGB GB GTS REST API
 
-<img src="/img/gbgts.png">
+<img src="/backend/img/gbgts.png">
 
 **author:** Tim Oelrichs<br> **email:** timoelrichs@gmail.com<br>
 
 <br>
 
-## Deno REST API for the DoubleCherryGB GB GTS (in Development)
+## DoubleCherryGB GBGTS (in Development)
+### Vue Frontend and Deno REST API with Deno.KV Database
 
 <br>
+vist https://gbgts.deno.dev/ to see in it action!
 
 GBGTS aims to bring an online link-trading system to the Game Boy and Game Boy
 Color. It provides an online Pokémon Trading Pool for the GB/GBC Pokémon games
@@ -26,7 +28,7 @@ Once traded, your Pokémon will then be added to the online pool.
 
 run it locally with
 ```
-deno run --allow-net --watch --unstable main.ts
+deno run --allow-net --watch --unstable-kv --allow-read main.ts
 ```
 
 
